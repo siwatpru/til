@@ -5,12 +5,13 @@
 A collection of write-ups on small things I learn day to day across a variety of
 languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-_2 TILs and counting..._
+_3 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [Bash](#bash)
 * [Docker](#docker)
 * [Vim](#vim)
 
