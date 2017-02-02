@@ -16,6 +16,9 @@ _2 TILs and counting..._
 
 ---
 
+### Bash
+- [Pipe stderr](bash/pipe-stderr.md)
+
 ### Docker
 - [Format output from docker CLI](docker/format-output-from-docker-cli.md)
 
