@@ -25,4 +25,4 @@ _4 TILs and counting..._
 
 ### Vim
 - [Delete all lines containing a pattern](vim/delete-all-lines-containing-a-pattern.md)
-- [Show ascii value of current characters](vim/show-ascii-value-of-current-characters.md)
+- [Show ascii value of current character](vim/show-ascii-value-of-current-character.md)
