@@ -5,7 +5,7 @@
 A collection of write-ups on small things I learn day to day across a variety of
 languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-_4 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
