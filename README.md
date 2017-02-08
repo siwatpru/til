@@ -13,6 +13,7 @@ _4 TILs and counting..._
 
 * [Bash](#bash)
 * [Docker](#docker)
+8 [Git](#git)
 * [Vim](#vim)
 
 ---
@@ -22,6 +23,9 @@ _4 TILs and counting..._
 
 ### Docker
 - [Format output from docker CLI](docker/format-output-from-docker-cli.md)
+
+### Git
+- [Ignore further changes to a file](git/ignore-further-changes-to-a-file.md)
 
 ### Vim
 - [Delete all lines containing a pattern](vim/delete-all-lines-containing-a-pattern.md)
