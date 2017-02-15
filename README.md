@@ -13,7 +13,7 @@ _7 TILs and counting..._
 
 * [Bash](#bash)
 * [Docker](#docker)
-8 [Git](#git)
+* [Git](#git)
 * [Vim](#vim)
 
 ---
