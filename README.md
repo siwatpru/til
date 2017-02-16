@@ -5,7 +5,7 @@
 A collection of write-ups on small things I learn day to day across a variety of
 languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-_7 TILs and counting..._
+_8 TILs and counting..._
 
 ---
 
@@ -13,8 +13,9 @@ _7 TILs and counting..._
 
 * [Bash](#bash)
 * [Docker](#docker)
-8 [Git](#git)
+* [Linux](#linux)
 * [Vim](#vim)
+8 [Git](#git)
 
 ---
 
@@ -23,6 +24,9 @@ _7 TILs and counting..._
 
 ### Docker
 - [Format output from docker CLI](docker/format-output-from-docker-cli.md)
+
+### Linux
+- [Check which activities the user can carry out via sudo](linux/check-which-activities-the-user-can-carry-out-via-sudo.md)
 
 ### Git
 - [Ignore further changes to a file](git/ignore-further-changes-to-a-file.md)
