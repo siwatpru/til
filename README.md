@@ -5,7 +5,7 @@
 A collection of write-ups on small things I learn day to day across a variety of
 languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-_9 TILs and counting..._
+_10 TILs and counting..._
 
 ---
 
@@ -38,3 +38,4 @@ _9 TILs and counting..._
 - [Delete all lines containing a pattern](vim/delete-all-lines-containing-a-pattern.md)
 - [Run macro on every visual selected lines](vim/run-macro-on-every-visual-selected-lines.md)
 - [Show ascii value of current character](vim/show-ascii-value-of-current-character.md)
+- [Increase/Decrease value of a number](vim/increase-decrease-value-of-a-number.md)
