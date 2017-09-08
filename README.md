@@ -5,7 +5,7 @@
 A collection of write-ups on small things I learn day to day across a variety of
 languages and technologies. Inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
-_8 TILs and counting..._
+_9 TILs and counting..._
 
 ---
 
@@ -13,11 +13,10 @@ _8 TILs and counting..._
 
 * [Bash](#bash)
 * [Docker](#docker)
+* [Git](#git)
 * [Linux](#linux)
 * [Vim](#vim)
-8 [Git](#git)
-
----
+* [Git](#git)
 
 ### Bash
 - [Pipe stderr](bash/pipe-stderr.md)
@@ -30,6 +29,9 @@ _8 TILs and counting..._
 
 ### Git
 - [Ignore further changes to a file](git/ignore-further-changes-to-a-file.md)
+
+### Linux
+- [Check which activities the user can carry out via sudo](linux/check-which-activities-the-user-can-carry-out-via-sudo.md)
 
 ### Vim
 - [Read output from external command](vim/read-output-from-external-command.md)
